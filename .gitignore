@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.ipynb_checkpoints/
+
+# Database
+database/data.db
+database/*.sqlite3
