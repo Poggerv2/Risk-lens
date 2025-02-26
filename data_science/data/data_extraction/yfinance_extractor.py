@@ -20,7 +20,7 @@ def fetch_yahoo_data(ticker, start="2020-01-01", end="2025-01-01"):
 
 
 if __name__ == "__main__":
-    tickers = ["^GSPC", "AAPL"]
+    tickers = ["^GSPC"]
     save_path = os.path.join(os.path.dirname(__file__), "../raw_data/")
     os.makedirs(save_path, exist_ok=True)
 
