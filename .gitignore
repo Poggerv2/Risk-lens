@@ -12,3 +12,6 @@ venv/
 # Database
 database/data.db
 database/*.sqlite3
+
+#data_science
+data_science/models/sp500/my_dir
